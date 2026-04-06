@@ -1,6 +1,6 @@
 # 智简魔方上游产品批量导入工具
 
-Author: RuiNexus
+Author: FuRuiORG/RuiNexus
 
 >当前只建议使用一级分组导入
 
